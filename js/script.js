@@ -66,7 +66,6 @@ $(document).ready(function () {
   });
 
   $("[data-fancybox]").fancybox();
-
   $("#filters a").click(function () {
     $("#filters .current").removeClass("current");
     $(this).addClass("current");
