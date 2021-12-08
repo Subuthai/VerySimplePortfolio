@@ -8,7 +8,7 @@
 - And yes, It's not very pleasing to eyes, I know.
 - Take a look: https://subuthai.github.io/VerySimplePortfolio/
 
-### Connect with me:
+### Contact me:
 
 [<img align="left" alt="subuthai.xyz" width="22px" src="https://img.icons8.com/fluency/48/000000/globe.png" />][website]
 [<img align="left" alt="subuthai | YouTube" width="22px" src="https://img.icons8.com/fluency/48/000000/youtube-play.png" />][youtube]
